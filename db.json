@@ -1,0 +1,7 @@
+{
+  "tasks": [
+    { "id": "1", "title": "Apprendre Vue.js 3", "done": false },
+    { "id": "2", "title": "Comprendre la Composition API", "done": true },
+    { "id": "3", "title": "Maîtriser Pinia", "done": false }
+  ]
+}
